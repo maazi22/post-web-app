@@ -1,0 +1,12 @@
+.navbar{
+  background-color: black !important;
+  height: 80px;
+}
+.navbar-brand{
+   color : white !important;
+   height: 30px;
+}
+.btn-primary{
+    background-color: black !important;
+    border-color: black !important;
+}
